@@ -1,5 +1,7 @@
 # Sahi — Personal AI Shopping Assistant
 
+https://sahi-backend.vercel.app/
+
 A calm, confident AI personal shopper built for Indian consumers. Consults before it recommends.
 
 ## What it does
